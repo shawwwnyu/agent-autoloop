@@ -1,5 +1,0 @@
-account.json
-private/
-*.db
-*.db-shm
-*.db-wal
